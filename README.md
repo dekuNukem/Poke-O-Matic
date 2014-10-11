@@ -1,0 +1,1 @@
+This is the PCB version of Poke-O-Matic. This project in unmaintained since PowerSave came out, but feel free to take a look at the code. 
